@@ -1,4 +1,4 @@
-package Patterns.prototype;
+package patterns.prototype;
 
 import factory.DesignTest;
 

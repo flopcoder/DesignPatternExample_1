@@ -1,4 +1,4 @@
-package Constants;
+package constants;
 
 /**
  * Created by Flop Coder on 7/10/14.

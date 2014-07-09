@@ -1,4 +1,4 @@
-package Patterns.abstract_factory;
+package patterns.abstract_factory;
 
 import factory.DesignTest;
 

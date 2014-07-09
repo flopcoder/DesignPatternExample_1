@@ -1,9 +1,9 @@
 package factory;
 
-import Patterns.abstract_factory.AbstractFactoryTest;
-import Constants.Constant;
-import Patterns.prototype.PrototypeTest;
-import Patterns.singletone.SingletonTest;
+import patterns.abstract_factory.AbstractFactoryTest;
+import constants.Constant;
+import patterns.prototype.PrototypeTest;
+import patterns.singletone.SingletonTest;
 
 /**
  * Created by Flop Coder on 7/10/14.

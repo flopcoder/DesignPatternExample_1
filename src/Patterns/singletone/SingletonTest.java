@@ -1,4 +1,4 @@
-package Patterns.singletone;
+package patterns.singletone;
 
 import factory.DesignTest;
 

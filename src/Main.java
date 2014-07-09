@@ -1,4 +1,4 @@
-import Constants.Constant;
+import constants.Constant;
 import factory.DesignTest;
 import factory.ObjectFactory;
 

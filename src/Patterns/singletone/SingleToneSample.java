@@ -1,4 +1,4 @@
-package Patterns.singletone;
+package patterns.singletone;
 
 /**
  * Created by Flop Coder on 7/8/14.
